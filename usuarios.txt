@@ -1,0 +1,9 @@
+administrador
+
+usuario : juan@salim.com
+pass: 1234
+
+usuario comun
+
+usuario : dante@sv.com
+pass : 1111
